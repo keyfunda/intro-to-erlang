@@ -5,7 +5,9 @@ Material for keyfunda's 'Intro to Erlang' event
 
 Our event has a lot of ground to cover and we will be challenged for time. Hence we need you to do some pre-event homework.
 
-Pick up the file IntroToErlang_PreEvent.pdf in this repository and study it. You should visit some of the web page links and try to familiarize yourself with the concepts. During the event we will *quickly* skip through the pre-event material.
+Pick up the file [IntroToErlang_PreEvent.pdf](https://github.com/keyfunda/intro-to-erlang/blob/master/IntroToErlang_PreEvent.pdf?raw=true) in this repository and study it.
+
+You should visit some of the web page links and try to familiarize yourself with the concepts. During the event we will *quickly* skip through the pre-event material.
 
 Don't worry if you don't understand everything immediately, some of these are difficult concepts. At the least, when we talk about this stuff during the event, it won't be totally new to you. You are always welcome to discuss any of this material during the breaks between sessions.
 ***
