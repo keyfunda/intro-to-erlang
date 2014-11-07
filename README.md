@@ -13,8 +13,10 @@ Don't worry if you don't understand everything immediately, some of these are di
 ***
 
 1) Page 5: [Install Erlang](http://www.erlang.org/download.html) on your laptop. You should be able to open the Erlang shell and check the following command:
-    > 1 + 1.    (Hit enter) (Note the full-stop at the end)
-     2
+```
+> 1 + 1.    (Hit enter) (Note the full-stop at the end)
+ 2
+```
 ***
 **CAUTION:** *We are not responsible for what this installation may do to your computer. Consider the use of a virtual machine such as [VirtualBox](https://www.virtualbox.org/).*
 ***
