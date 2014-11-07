@@ -12,7 +12,7 @@ Don't worry if you don't understand everything immediately, some of these are di
 
 1) Page 5: [Install Erlang](http://www.erlang.org/download.html) on your laptop.
 ***
-CAUTION: *We are not responsible for what this may do to your computer. Consider the use of a virtual machine such as [VirtualBox](https://www.virtualbox.org/).*
+CAUTION: *We are not responsible for what this installation may do to your computer. Consider the use of a virtual machine such as [VirtualBox](https://www.virtualbox.org/).*
 ***
 
 2) Page 8: Moore's Law of transistor scaling, and the power-wall for multicore processors. Please take time to read through our [blog post on semiconductor scaling](http://www.keyfunda.com/blog/2014/9/17/semiconductor-scaling-and-concurrent-clouds-part-i) at the keyfunda website.
