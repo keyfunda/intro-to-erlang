@@ -12,7 +12,9 @@ You should visit some of the web page links and try to familiarize yourself with
 Don't worry if you don't understand everything immediately, some of these are difficult concepts. At the least, when we talk about this stuff during the event, it won't be totally new to you. You are always welcome to discuss any of this material during the breaks between sessions.
 ***
 
-1) Page 5: [Install Erlang](http://www.erlang.org/download.html) on your laptop.
+1) Page 5: [Install Erlang](http://www.erlang.org/download.html) on your laptop. You should be able to open the Erlang shell and check the following command:
+    > 1 + 1.    (Hit enter) (Note the full-stop at the end)
+     2
 ***
 **CAUTION:** *We are not responsible for what this installation may do to your computer. Consider the use of a virtual machine such as [VirtualBox](https://www.virtualbox.org/).*
 ***
